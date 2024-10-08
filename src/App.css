@@ -1,0 +1,16 @@
+.nav-container {
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  column-gap: 7px;
+  margin: 15px auto;
+}
+
+.nav__logo {
+  width: 25px;
+}
